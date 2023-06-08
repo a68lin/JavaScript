@@ -51,3 +51,4 @@ print("first"); //Can work even if without giving all arguments required
 console.log(square(2));
 console.log(nothing()); //return undefined
 
+// check if contributed
